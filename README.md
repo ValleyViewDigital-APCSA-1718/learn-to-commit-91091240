@@ -58,24 +58,4 @@ public class myInfo
 }//End of class myInfo
 
 
-* Extra (If you did either one)
-public class myInfo 
-{
-    public static void main(String args[]) 
-    {
-        System.out.println("    JJJJJJJJJJJJJJJJJJJJJJ  AAAAAAAAAAAAAAAAAAAAAAA  MMMM                  MMMM");                                                         
-        System.out.println("    JJJJJJJJJJJJJJJJJJJJJJ  AAAAAAAAAAAAAAAAAAAAAAA  MMMMM                MMMMM");
-        System.out.println("           JJJJJJ           AAA                 AAA  MMMMMM              MMMMMM");
-        System.out.println("           JJJJJJ           AAA                 AAA  MMMMMMM            MMMMMMM");
-        System.out.println("           JJJJJJ           AAA                 AAA  MMMMMMMM          MMMMMMMM");
-        System.out.println("           JJJJJJ           AAA                 AAA  MMM MMMMM        MMMMMMMMM");
-        System.out.println("           JJJJJJ           AAA                 AAA  MMM  MMMMM      MMMMM  MMM");
-        System.out.println("           JJJJJJ           AAAAAAAAAAAAAAAAAAAAAAA  MMM   MMMMM    MMMMM   MMM");
-        System.out.println("           JJJJJJ           AAAAAAAAAAAAAAAAAAAAAAA  MMM    MMMMM  MMMMM    MMM");
-        System.out.println(" JJJ       JJJJJJ           AAA                 AAA  MMM     MMMMMMMMMM     MMM");
-        System.out.println(" JJJ       JJJJJJ           AAA                 AAA  MMM      MMMMMMMM      MMM");
-        System.out.println(" JJJJJJJJJJJJJJJJ           AAA                 AAA  MMM       MMMMMM       MMM");
-        System.out.println(" JJJJJJJJJJJJJJJJ           AAA                 AAA  MMM        MMMM        MMM");
-        System.out.println(" JJJJJJJJJJJJJJJJ           AAA                 AAA  MMM        MMMM        MMM");
-    } 
-}
+* Extra 
